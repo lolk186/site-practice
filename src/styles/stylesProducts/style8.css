@@ -1,0 +1,60 @@
+.productsBlock8all{
+    display: flex;
+}
+.productsBlock8div1img1{
+    width: 170px;
+    height: 67.58px;
+    margin-left: 8%;
+
+}
+.productsBlock8div1img2{
+    width: 170px;
+    height: 67.58px;
+    margin-left: 8%;
+}
+.productsBlock8div1img3{
+    width: 170px;
+    height: 45.33px;
+    margin-left: 8%;
+}
+.productsBlock8div1{
+    width: 423.54px;
+    height: 287.58px;
+    border: 1px solid #ededed;
+    margin-left: 10%;
+}
+.productsBlock8div2{
+    width: 423.54px;
+    height: 287.58px;
+    border: 1px solid #ededed;
+    margin-left: 7%;
+}
+.productsBlock8div3{
+    width: 423.54px;
+    height: 287.58px;
+    border: 1px solid #ededed;
+    margin-left: 7%;
+}
+.productsBlock8div1p1{
+    font-size: 20px;
+    color: #6f6f6f;
+    margin-left: 8%;
+    margin-top: 14%;
+}
+.productsBlock8div1p2{
+    font-size: 20px;
+    color: #6f6f6f;
+    margin-left: 8%;
+    margin-top: 14%;
+}
+.productsBlock8div1p3{
+    font-size: 20px;
+    color: #6f6f6f;
+    margin-left: 8%;
+    margin-top: 14%;
+}
+.productsBlock8p1{
+    font-size: 80px;
+    margin-top: 10%;
+    margin-left: 2%;
+}

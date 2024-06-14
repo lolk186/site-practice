@@ -1,0 +1,17 @@
+.singleBlock4{
+    display: flex;
+}
+.singleBlock4div1{
+    margin-top: 14%;
+    margin-left: 15%;
+}
+.singleBlock4div1p1{
+    font-size: 70px
+}
+.singleBlock4div1p2{
+    font-size: 20px;
+    color: #bdbdbd;
+}
+.singleBlock4img1{
+    margin-left: 10%;
+}

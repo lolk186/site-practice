@@ -1,0 +1,19 @@
+.block3{
+    display: flex;
+}
+.man{
+    width: 800px;
+    margin-top: 91px;
+    margin-left: 42px;
+}
+.lightBlock3{
+    margin-left: 300px;
+    margin-top: 300px;
+}
+.plans{
+    font-size: 55px;
+}
+.discover{
+    font-size: 30px;
+    padding-left: 2px;
+}

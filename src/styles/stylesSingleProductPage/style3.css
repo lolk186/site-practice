@@ -1,0 +1,21 @@
+.singleBlock3img1{
+    width: 100%;
+    position: relative;
+}
+.singleBlock3div1{
+    margin-left: 13%;
+}
+.singleBlock3div1p1{
+    position: absolute;
+    top: 0;
+    margin-top: 67%;
+    font-size: 60px;
+    color: white;
+}
+.singleBlock3div1p2{
+    position: absolute;
+    top: 0;
+    font-size: 20px;
+    margin-top: 75%;
+    color: white;
+}

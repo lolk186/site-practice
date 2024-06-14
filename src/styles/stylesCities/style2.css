@@ -1,0 +1,28 @@
+.citiesBlock2img1{
+    position: relative;
+    width: 100%;
+}
+.citiesBlock2div1p1{
+    position: absolute;
+    top: 0;
+    font-size: 20px;
+    margin-top: 26.5%;
+    color: white;
+}
+.citiesBlock2div1p2{
+    position: absolute;
+    top: 0;
+    font-size: 60px;
+    margin-top: 29%;
+    color: white;
+}
+.citiesBlock2div1p3{
+    position: absolute;
+    top: 0;
+    font-size: 20px;
+    margin-top: 34%;
+    color: white;
+}
+.citiesBlock2div1{
+    margin-left: 4%;
+}

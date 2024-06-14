@@ -1,0 +1,22 @@
+.productsBlock5all{
+    margin-top: 13%;
+}
+.productsBlock5p1{
+    font-size: 100px;
+    margin-left: 4%;
+}
+.productsBlock5div1{
+    display: flex;
+    margin-top: 8%;
+    margin-left: 4.1%;
+    width: 100%;
+}
+.productsBlock5p2{
+    font-size: 22px;
+    color: #646464;
+}
+.productsBlock5img{
+    width: 37px;
+    height: 55px;
+    margin-left: 56%;
+}

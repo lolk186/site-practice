@@ -1,0 +1,20 @@
+.aboutBlock4{
+    display: flex;
+    margin-top: 15%;
+}
+.aboutBlock4img1{
+    width: 635.29px;
+    height: 635.28px;
+    margin-left: 10%;
+}
+.aboutBlock4div1{
+    margin-top: 12%;
+    margin-left: 14%;
+}
+.aboutBlock4div1p1{
+    font-size: 60px;
+    margin-bottom: 5%;
+}
+.aboutBlock4div1p2{
+    font-size: 20px;
+}

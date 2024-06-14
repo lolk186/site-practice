@@ -1,0 +1,166 @@
+.singleBlock16knopkaVverch{
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 100px;
+    font-size: 30px;
+    font-weight: 900;
+    margin-left: 93%;
+    margin-top: 1%;
+    background-color: white;
+    color: black;
+}
+.singleBlock16zvet11{
+    background-color: black;
+    height: 450px;
+    z-index: -10;
+}
+.singleBlock16photo11{
+    background-color: black;
+    align-items: center;
+
+}
+.singleBlock16all11{
+    display: flex;
+}
+.singleBlock16flex2_11{
+    display: flex;
+    font-size: 80%;
+    margin-left: 5%;
+    justify-content: space-between;
+}
+.singleBlock16photo11{
+    display: flex;
+}
+.singleBlock16text1_11{
+    font-size: 28px;
+    color: white;
+}
+.singleBlock16text2_11{
+    font-size: 28px;
+    color: white;
+}
+.singleBlock16text3_11{
+    font-size: 28px;
+    color: white;
+}
+.singleBlock16span1_11{
+    font-size: 15px;
+    font-family: Arial;
+}
+.singleBlock16span2_11{
+    font-size: 15px;
+    font-family: Arial;
+}
+.singleBlock16span3_11{
+    font-size: 15px;
+    font-family: Arial;
+}
+.singleBlock16textSpan1_11{
+    margin-bottom: 4px;
+    color: white;
+}
+.singleBlock16textSpan2_11{
+    margin-bottom: 4px;
+    color: white;
+}
+.singleBlock16textSpan3_11{
+    margin-bottom: 4px;
+    color: white;
+}
+.singleBlock16big1_11{
+    margin-left: 5%;
+}
+.singleBlock16big2_11{
+    margin-left: 13%;
+}
+.singleBlock16big3_11{
+    margin-left: 13%;
+}
+.singleBlock16textOther1{
+    font-size: 28px;
+    color: white;
+}
+.singleBlock16textOther2{
+    font-size: 17px;
+    color: white;
+}
+.singleBlock16knopka11_1{
+    border-radius: 30px;
+    position: relative;
+    right: 5%;
+    height: 45px;
+    width: 120px;
+    background-color: white;
+    border: 1px solid white;
+    font-size: 1.1rem;
+    z-index: +3;
+}
+/* .knopka11_1:hover {
+    background-color: #bdbdbd;
+} */
+.singleBlock16input11_1{
+    position: relative;
+    z-index: +2;
+    height: 17px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 290px;
+    padding: 0.75rem;
+    background-color: black;
+    border: 1px solid #bdbdbd;
+    color: white;
+}
+.singleBlock16galka11{
+    display: flex;
+    margin-left: 7%;
+    width: 100%;
+}
+.singleBlock16galka11_1{
+    accent-color: black;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #bdbdbd;
+    border-radius: 4px;
+    margin-top: 3.6%;
+}
+.singleBlock16galka11_1:not(:checked){
+    background-color: black;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+}
+.singleBlock16textGalka11_1{
+    margin-top: 15px;
+    font-family: Arial;
+    color: white;
+    margin-left: 4%;
+}
+.singleBlock16facebook{
+    width: 13.06px;
+    height: 13.06px;
+}
+.singleBlock16instagram{
+    width: 13.06px;
+    height: 13.06px;
+    margin-left: 5%;
+}
+.singleBlock16youtube{
+    width: 13.06px;
+    height: 13.06px;
+    margin-left: 5%;
+}
+.singleBlock16integrall{
+    width: 13.06px;
+    height: 13.06px;
+    margin-left: 5%;
+}
+.singleBlock16tiktok{
+    width: 13.06px;
+    height: 16.86px;
+    margin-left: 5%;
+}
+.singleBlock16spanEnd11{
+    margin-left: 20%;
+}

@@ -1,0 +1,24 @@
+.singleBlock6img1{
+    position: relative;
+    width: 100%;
+}
+.singleBlock6div1p1{
+    position: absolute;
+    top: 0;
+    margin-top: 205%;
+    font-size: 80px;
+    color: white;
+}
+.singleBlock6div1p2{
+    position: absolute;
+    top: 0;
+    color: white;
+    margin-top: 211%;
+    font-size: 20px;
+}
+.singleBlock6div1{
+    margin-left: 10%;
+}
+.singleBlock6{
+    margin-bottom: 0;
+}

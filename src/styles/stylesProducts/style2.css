@@ -1,0 +1,29 @@
+.productsBlock2All{
+    position: relative;
+}
+.productsBlock2img1{
+    width: 100%;
+}
+.productsBlock2p1{
+    position: absolute;
+    top: 0;
+    margin-top: 470px;
+    margin-left: 100px;
+    color: white;
+}
+.productsBlock2p2{
+    position: absolute;
+    top: 0;
+    margin-top: 490px;
+    font-size: 80px;
+    margin-left: 100px;
+    color: white;
+}
+.productsBlock2p3{
+    position: absolute;
+    top: 0;
+    font-size: 20px;
+    margin-top: 590px;
+    margin-left: 100px;
+    color: white;
+}

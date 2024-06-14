@@ -1,0 +1,100 @@
+*{
+    font-family: Arial;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+.aboutBlock1ownHeader1{
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-spacing: 10px;
+    background-color: none;
+    width: 100%;
+    z-index: 50;
+    color: white;
+}
+.aboutBlock1header1{
+    position: relative;
+    display: flex;
+}
+
+
+.aboutBlock1lightHeader1{
+    display: flex;
+    margin-left: 500px;
+} 
+.aboutBlock1valoretti1{
+    margin-left: 90px;
+    margin-right: 90px;
+    font-weight: 570;
+    margin-top: 17px;
+    
+}
+.aboutBlock1electric1{
+    width: 85;
+    height: 15;
+    margin-right: 20px;
+    border: none;
+    background: none;
+    color: white;
+}
+.aboutBlock1city1{
+    width: 53px;
+    height: 15px;
+    margin-right: 20px;
+    border: none;
+    margin-top: 17px;
+    background: none;
+    color: white;
+}
+.aboutBlock1kids1{
+    margin-right: 20px;
+    border: none;
+    background: none;
+    color: white;
+}
+.aboutBlock1accessories1{
+    margin-right: 20px;
+    font-size: 14px;
+    margin-top: 17px;
+}
+.aboutBlock1stories1{
+    margin-right: 20px;
+    font-size: 14px;
+    margin-top: 17px;
+}
+.aboutBlock1leasing1{
+    margin-right: 20px;
+    border: none;
+    background: none;
+    color: white;
+}
+.aboutBlock1leasing1:checked{
+    margin-right: 20px;
+    border: none;
+}
+.aboutBlock1britain1{
+    width: 9.5;
+    height: 15px;
+    margin-top: 17px;
+    margin-right: 20px;
+}
+.aboutBlock1person1{
+    width: 21.1px;
+    height: 15.66px;
+    margin-right: 20px;
+    margin-top: 17px;
+}
+.aboutBlock1bag1{
+    width: 21.67px;
+    height: 16px;
+    margin-right: 100px;
+    margin-top: 17px;
+}
+.aboutBlock1en1{
+    margin-top: 17px;
+}

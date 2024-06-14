@@ -1,0 +1,42 @@
+.block6{
+    display: flex;
+    padding-top: 180px;
+}
+.span1{
+    display: flex;
+}
+.span2{
+    display: flex;
+}
+.span3{
+    display: flex;
+}
+.span4{
+    display: flex;
+}
+.textBig{
+   font-size: 46px;
+}
+.bigSpan{
+    margin-left: 260px;
+    margin-top: 150px;
+    margin-right: 350px;
+}
+.rectangle6{
+    width: 25px;
+    height: 28px; 
+    margin-right: 10px;
+}
+.textRec6{
+    margin-top: 3.5px;
+    font-size: 20px;
+    margin-bottom: 6px;
+}
+.textGray6{
+    margin-left: 30px;
+    color: rgb(179, 179, 179);
+    margin-bottom: 20px;
+}
+/* .pishechka{
+    width: 40%;
+} */

@@ -1,0 +1,22 @@
+.block5{
+    display: flex;
+}
+.scuter{
+    margin-top: 91px;
+    margin-left: 40px;
+    width: 800px;
+}
+.text5{
+    margin-left: 250px;
+    margin-top: 350px;
+}
+.free{
+    font-size: 50px;
+}
+.plan{
+    font-size: 20px;
+}
+.cost{
+    font-size: 25px;
+    padding-left: 2px;
+}

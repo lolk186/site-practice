@@ -1,0 +1,19 @@
+.singleBlock12{
+    display: flex;
+    margin-top: 10%;
+}
+.singleBlock12div1{
+    margin-top: 8%;
+    margin-left: 15%;
+}
+.singleBlock12div1p1{
+    font-size: 70px;
+}
+.singleBlock12div1p2{
+    font-size: 20px;
+}
+.singleBlock12img1{
+    width: 635.29px;
+    height: 644px;
+    margin-left: 13%;
+}

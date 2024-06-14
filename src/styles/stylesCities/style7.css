@@ -1,0 +1,166 @@
+.citiesBlock7knopkaVverch{
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 100px;
+    font-size: 30px;
+    font-weight: 900;
+    margin-left: 93%;
+    margin-top: 1%;
+    background-color: white;
+    color: black;
+}
+.citiesBlock7zvet11{
+    background-color: black;
+    height: 450px;
+    z-index: -10;
+}
+.citiesBlock7photo11{
+    background-color: black;
+    align-items: center;
+
+}
+.citiesBlock7all11{
+    display: flex;
+}
+.citiesBlock7flex2_11{
+    display: flex;
+    font-size: 80%;
+    margin-left: 5%;
+    justify-content: space-between;
+}
+.citiesBlock7photo11{
+    display: flex;
+}
+.citiesBlock7text1_11{
+    font-size: 28px;
+    color: white;
+}
+.citiesBlock7text2_11{
+    font-size: 28px;
+    color: white;
+}
+.citiesBlock7text3_11{
+    font-size: 28px;
+    color: white;
+}
+.citiesBlock7span1_11{
+    font-size: 15px;
+    font-family: Arial;
+}
+.citiesBlock7span2_11{
+    font-size: 15px;
+    font-family: Arial;
+}
+.citiesBlock7span3_11{
+    font-size: 15px;
+    font-family: Arial;
+}
+.citiesBlock7textSpan1_11{
+    margin-bottom: 4px;
+    color: white;
+}
+.citiesBlock7textSpan2_11{
+    margin-bottom: 4px;
+    color: white;
+}
+.citiesBlock7textSpan3_11{
+    margin-bottom: 4px;
+    color: white;
+}
+.citiesBlock7big1_11{
+    margin-left: 5%;
+}
+.citiesBlock7big2_11{
+    margin-left: 13%;
+}
+.citiesBlock7big3_11{
+    margin-left: 13%;
+}
+.citiesBlock7textOther1{
+    font-size: 28px;
+    color: white;
+}
+.citiesBlock7textOther2{
+    font-size: 17px;
+    color: white;
+}
+.citiesBlock7knopka11_1{
+    border-radius: 30px;
+    position: relative;
+    right: 5%;
+    height: 45px;
+    width: 120px;
+    background-color: white;
+    border: 1px solid white;
+    font-size: 1.1rem;
+    z-index: +3;
+}
+/* .knopka11_1:hover {
+    background-color: #bdbdbd;
+} */
+.citiesBlock7input11_1{
+    position: relative;
+    z-index: +2;
+    height: 17px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 290px;
+    padding: 0.75rem;
+    background-color: black;
+    border: 1px solid #bdbdbd;
+    color: white;
+}
+.citiesBlock7galka11{
+    display: flex;
+    margin-left: 7%;
+    width: 100%;
+}
+.citiesBlock7galka11_1{
+    accent-color: black;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #bdbdbd;
+    border-radius: 4px;
+    margin-top: 3.6%;
+}
+.citiesBlock7galka11_1:not(:checked){
+    background-color: black;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+}
+.citiesBlock7textGalka11_1{
+    margin-top: 15px;
+    font-family: Arial;
+    color: white;
+    margin-left: 4%;
+}
+.citiesBlock7facebook{
+    width: 13.06px;
+    height: 13.06px;
+}
+.citiesBlock7instagram{
+    width: 13.06px;
+    height: 13.06px;
+    margin-left: 5%;
+}
+.citiesBlock7youtube{
+    width: 13.06px;
+    height: 13.06px;
+    margin-left: 5%;
+}
+.citiesBlock7integrall{
+    width: 13.06px;
+    height: 13.06px;
+    margin-left: 5%;
+}
+.citiesBlock7tiktok{
+    width: 13.06px;
+    height: 16.86px;
+    margin-left: 5%;
+}
+.citiesBlock7spanEnd11{
+    margin-left: 20%;
+}

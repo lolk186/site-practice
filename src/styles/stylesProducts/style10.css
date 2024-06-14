@@ -1,0 +1,26 @@
+.productsBlock10all{
+    display: flex;
+}
+.productsBlock10img1{
+    width: 635.29px;
+    height: 635px;
+    margin-top: 5%;
+    margin-left: 13%;
+}
+.productsBlock10div1p1{
+    font-size: 60px;
+    margin-bottom: 4%;
+    margin-left: 0.5%;
+}
+.productsBlock10div1p2{
+    font-size: 20px;
+    margin-bottom: 7%;
+}
+.productsBlock10div1p3{
+    font-size: 25px;
+    margin-left: 0.5%;
+}
+.productsBlock10div1{
+    margin-left: 10%;
+    margin-top: 16%;
+}

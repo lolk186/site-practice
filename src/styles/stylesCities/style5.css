@@ -1,0 +1,47 @@
+.citiesBlock5{
+    margin-top: 5%;
+}
+.citiesBlock5flex{
+    display: flex;
+}
+.citiesBlock5img1{
+    position: relative;
+    width: 590.39px;
+    height: 698.8px;
+    margin-left: 13.8%;
+}
+.citiesBlock5img2{
+    position: relative;
+    width: 273.59px;
+    height: 330.28px;
+    margin-left: 25.55%;
+}
+.citiesBlock5div1div1{
+    width: 465.88px;
+    height: 582px;
+    font-size: 28px;
+    background-color: white;
+    border: 2px solid #dfdfdf;
+    border-radius: 8px;
+    margin-top: 805%;
+    margin-left: 180%;
+    color: #aaaaaa;
+}
+.citiesBlock5div1div1p1{
+    margin-left: 14%;
+    margin-top: 10%;
+}
+.citiesBlock5div1{
+    position: absolute;
+    top: 0;
+}
+.citiesBlock5div1img1{
+    border: none;
+    margin-left: 120%;
+}
+.citiesBlock5p1{
+    margin-top: 30%;
+    font-size: 180px;
+    vertical-align: center;
+    text-align: center;
+}

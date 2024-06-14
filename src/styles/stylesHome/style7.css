@@ -1,0 +1,155 @@
+/* первая картинка */
+.all71{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.span71{
+    display: flex;
+}
+.span72{
+    display: flex;
+}
+.span73{
+    display: flex;
+}
+.big71{
+    position: relative;
+    top: 0;
+}
+.photo7{
+    position: absolute;
+    width: 636.98px;
+    height: 695px;
+    border-radius: 12px;
+
+}
+.text71{
+    font-size: 32px;
+    margin-top: 32px;
+    margin-left: 26px;
+}
+.text72{
+    font-size: 12px;
+    margin-top: 34px;
+    margin-left: 18px;
+}
+.text73{
+    font-size: 20px;
+    margin-top: 38px;
+    margin-left: 178px;
+}
+.strelkaleft7{
+    width: 14.59px;
+    height: 30.75px;
+    margin-top: 250px;
+    margin-left: 47px;
+}
+.strelkaright7{
+    width: 14.71px; 
+    height: 25px;
+    margin-top: 250px;
+}
+.blackcol7{
+    width: 40px;
+    height: 40px;
+    margin-left: 215px;
+}
+.graycol7{
+    width: 33px;
+    height: 33px;
+    margin-left: 20px;
+}
+.sandcol7{
+    width: 33px;
+    height: 33px;
+    margin-left: 20px;
+}
+.sandBlackcol7{
+    width: 33px;
+    height: 33px;
+    margin-left: 20px;
+}
+.velik7{
+    width: 504.98px;
+    height: 500px;   
+}
+
+/* вторая картинка */
+.all72{
+    margin-top: 200px;
+    margin-left: 270px;
+}
+.span712{
+    display: flex;
+}
+.span722{
+    display: flex;
+}
+.span732{
+    display: flex;
+}
+.big72{
+    position: relative;
+    top: 0;
+}
+.photo72{
+    position: absolute;
+    width: 636.98px;
+    height: 695px;
+    border-radius: 12px;
+}
+.text712{
+    font-size: 32px;
+    margin-top: 32px;
+    margin-left: 26px;
+}
+.text722{
+    font-size: 12px;
+    margin-top: 34px;
+    margin-left: 18px;
+}
+.text732{
+    font-size: 20px;
+    margin-top: 38px;
+    margin-left: 178px;
+}
+.strelkaleft72{
+    width: 14.59px;
+    height: 30.75px;
+    margin-top: 250px;
+    margin-left: 47px;
+}
+.strelkaright72{
+    width: 14.71px; 
+    height: 25px;
+    margin-top: 250px;
+}
+.blackcol72{
+    width: 40px;
+    height: 40px;
+    margin-left: 215px;
+}
+.graycol72{
+    width: 33px;
+    height: 33px;
+    margin-left: 20px;
+}
+.sandcol72{
+    width: 33px;
+    height: 33px;
+    margin-left: 20px;
+}
+.sandWhitecol72{
+    width: 33px;
+    height: 33px;
+    margin-left: 20px;
+}
+.velik72{
+    width: 504.98px;
+    height: 500px;   
+}
+
+.aaa7{
+    display: flex;
+    margin-left: 50px;
+}

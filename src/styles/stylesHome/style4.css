@@ -1,0 +1,23 @@
+.block4{
+    position: relative;
+    margin-top: 91px;
+}
+.bice{
+    width: 100%;
+}
+.service{
+    font-size: 70px;
+    top: 0;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 180px;
+    color: white;
+}
+.include{
+    font-size: 18px;
+    position: absolute;
+    top: 0;
+    margin-top: 600px;
+    margin-left: 180px;
+    color: white;
+}

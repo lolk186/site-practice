@@ -1,0 +1,110 @@
+
+.all8{
+    margin-top: 20%;
+}
+.text8{
+    font-size: 50px;
+    margin-left: 42.5%;
+}
+.first8{
+    width: 78%;
+    height: 50px;
+    border-radius: 5px;
+    border-color: rgb(221, 221, 221);
+    margin-left: 11%;
+    border: 1;
+    padding: 0.375rem 0.75rem;
+    font-size: 1.1rem;
+    border: 1px solid #bdbdbd
+
+}
+.last8{
+    width: 78%;
+    height: 50px;
+    border-radius: 5px;
+    border-color: rgb(226, 226, 226);
+    margin-left: 11%;
+    margin-top: 27px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1.1rem;
+    border: 1px solid #bdbdbd
+}
+.email8{
+    width: 78%;
+    height: 50px;
+    border-radius: 5px;
+    border-color: rgb(226, 226, 226);
+    margin-left: 11%;
+    margin-top: 27px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1.1rem;
+    border: 1px solid #bdbdbd
+}
+.phone8{
+    width: 78%;
+    height: 50px;
+    border-radius: 5px;
+    border-color: rgb(226, 226, 226);
+    margin-left: 11%;
+    margin-top: 27px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1.1rem;
+    border: 1px solid #bdbdbd
+}
+.company8{
+    width: 78%;
+    height: 50px;
+    border-radius: 5px;
+    border-color: rgb(226, 226, 226);
+    margin-left: 11%;
+    margin-top: 27px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1.1rem;
+    border: 1px solid #bdbdbd
+}
+.vybor8{
+    width: 79.53%;
+    height: 65px;
+    border-radius: 5px;
+    border-color: rgb(226, 226, 226);
+    margin-left: 11%;
+    margin-top: 27px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1.1rem;
+    border: 1px solid #bdbdbd;
+    color: #747474;
+}
+.number8{
+    width: 78%;
+    height: 50px;
+    border-radius: 5px;
+    border-color: rgb(226, 226, 226);
+    margin-left: 11%;
+    margin-top: 27px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1.1rem;
+    border: 1px solid #bdbdbd
+}
+.how8{
+    width: 78%;
+    height: 450px;
+    border-radius: 5px;
+    border-color: rgb(226, 226, 226);
+    margin-left: 11%;
+    margin-top: 27px;
+    padding: 0.875rem 0.75rem;
+    font-size: 1.1rem;
+    border: 1px solid #bdbdbd;
+    resize: none;
+}
+.knopka8{
+    width: 78.5%;
+    height: 50px;
+    border-radius: 25px;
+    margin-left: 11.5%;
+    border: none;
+    background-color: gray;
+    color: white;
+    font-size: 16px;
+    margin-top: 27px;
+}

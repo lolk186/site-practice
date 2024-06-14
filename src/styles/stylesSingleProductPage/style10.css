@@ -1,0 +1,21 @@
+.singleBlock10img1{
+    position: relative;
+    width: 100%;
+}
+.singleBlock10div1{
+    margin-left: 10%;
+}
+.singleBlock10div1p1{
+    position: absolute;
+    top: 0;
+    margin-top: 390%;
+    font-size: 70px;
+    color: white;
+}
+.singleBlock10div1p2{
+    position: absolute;
+    top: 0;
+    margin-top: 400%;
+    font-size: 20px;
+    color: white;
+}
